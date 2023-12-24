@@ -6,4 +6,4 @@ Harnessing both dynamic and static bytecode analysis, Skippy lets you iterate fa
 of your builds. It’s about working smarter, not harder—let Skippy streamline your builds, so you can get back to what CI was 
 meant to be: a fast track to production.
 
-[Getting Started with Skippy, Gradle & JUnit 5](https://www.skippy.io/tutorial/) | [How Skippy Works](https://www.skippy.io/how-skippy-works/)
+[Documentation](https://www.skippy.io/docs/) | [Tutorials](https://www.skippy.io/tutorials/)
